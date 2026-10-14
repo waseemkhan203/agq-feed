@@ -1,0 +1,701 @@
+{
+  "version": 1,
+  "updated": "2026-10-14",
+  "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
+  "daily_messages": [
+    {
+      "sd": "اڄ جو پيغام: درود پاڪ پڙهو، دليون روشن ٿينديون.",
+      "ur": "آج کا پیغام: درود پاک پڑھو، دل روشن ہوں گے۔",
+      "en": "Today's message: Recite Durood Pak; hearts will be illuminated."
+    },
+    {
+      "sd": "اڄ جو پيغام: محبت ورهايو، نفرت وساريو.",
+      "ur": "آج کا پیغام: محبت بانٹو، نفرت بھلاؤ۔",
+      "en": "Today's message: Share love, forget hatred."
+    },
+    {
+      "sd": "اڄ جو پيغام: ڪنهن جي مدد ڪرڻ سڀ کان وڏي عبادت آهي.",
+      "ur": "آج کا پیغام: کسی کی مدد کرنا سب سے بڑی عبادت ہے۔",
+      "en": "Today's message: Helping someone is the greatest worship."
+    },
+    {
+      "sd": "اڄ جو پيغام: صبر سان هر مشڪل آسان ٿيندي آهي.",
+      "ur": "آج کا پیغام: صبر سے ہر مشکل آسان ہوتی ہے۔",
+      "en": "Today's message: With patience every difficulty becomes easy."
+    },
+    {
+      "sd": "اڄ جو پيغام: سچ ڳالهايو، سچ تي قائم رهو.",
+      "ur": "آج کا پیغام: سچ بولو، سچ پر قائم رہو۔",
+      "en": "Today's message: Speak the truth and stand by it."
+    },
+    {
+      "sd": "اڄ جو پيغام: والدين جي خدمت جنت جو دروازو آهي.",
+      "ur": "آج کا پیغام: والدین کی خدمت جنت کا دروازہ ہے۔",
+      "en": "Today's message: Serving parents is the door to paradise."
+    },
+    {
+      "sd": "اڄ جو پيغام: علم حاصل ڪريو، علم ورهايو.",
+      "ur": "آج کا پیغام: علم حاصل کرو، علم بانٹو۔",
+      "en": "Today's message: Gain knowledge and share it."
+    },
+    {
+      "sd": "اڄ جو پيغام: پاڙيسري جو خيال رکو، اهو به دين آهي.",
+      "ur": "آج کا پیغام: پڑوسی کا خیال رکھو، یہ بھی دین ہے۔",
+      "en": "Today's message: Care for your neighbor; that too is faith."
+    },
+    {
+      "sd": "اڄ جو پيغام: غصي کي پي وڃو، معاف ڪرڻ سکو.",
+      "ur": "آج کا پیغام: غصہ پی جاؤ، معاف کرنا سیکھو۔",
+      "en": "Today's message: Swallow your anger; learn to forgive."
+    },
+    {
+      "sd": "اڄ جو پيغام: شڪرگذاري سان نعمتون وڌنديون آهن.",
+      "ur": "آج کا پیغام: شکرگزاری سے نعمتیں بڑھتی ہیں۔",
+      "en": "Today's message: Gratitude increases blessings."
+    },
+    {
+      "sd": "اڄ جو پيغام: ننڍن سان نرمي، وڏن سان ادب رکو.",
+      "ur": "آج کا پیغام: چھوٹوں سے نرمی، بڑوں سے ادب رکھو۔",
+      "en": "Today's message: Be gentle with the young, respectful with elders."
+    },
+    {
+      "sd": "اڄ جو پيغام: محفلن ۾ شرڪت ڪريو، روحاني ماحول ماڻيو.",
+      "ur": "آج کا پیغام: محفلوں میں شرکت کرو، روحانی ماحول پاؤ۔",
+      "en": "Today's message: Attend mehfils and gain a spiritual atmosphere."
+    },
+    {
+      "sd": "اڄ جو پيغام: زبان کي قابو ۾ رکو، اهو ئي اصل جهاد آهي.",
+      "ur": "آج کا پیغام: زبان کو قابو میں رکھو، یہی اصل جہاد ہے۔",
+      "en": "Today's message: Control your tongue; that is the real struggle."
+    },
+    {
+      "sd": "اڄ جو پيغام: درود پاڪ جي ڪثرت ڪريو، برڪتون نازل ٿينديون.",
+      "ur": "آج کا پیغام: درود پاک کی کثرت کرو، برکتیں نازل ہوں گی۔",
+      "en": "Today's message: Recite Durood abundantly; blessings will descend."
+    }
+  ],
+  "naats": [
+    {
+      "title": "Manqabat Shan-e-Mola Ali (A.S)",
+      "type": {
+        "sd": "منقبت",
+        "ur": "منقبت",
+        "en": "Manqabat"
+      },
+      "voice": {
+        "sd": "طارق چارڻ",
+        "ur": "طارق چڑن",
+        "en": "Tariq Charan"
+      },
+      "url": "https://www.youtube.com/watch?v=qm9s8UspfbU",
+      "duration": "2:41"
+    },
+    {
+      "title": "Dhamaal of Lal Shahbaz Qalandar",
+      "type": {
+        "sd": "ڌمال",
+        "ur": "دھمال",
+        "en": "Dhamaal"
+      },
+      "voice": {
+        "sd": "طارق چارڻ",
+        "ur": "طارق چڑن",
+        "en": "Tariq Charan"
+      },
+      "url": "https://www.youtube.com/watch?v=9DxUhPK5LxI",
+      "duration": "2:13"
+    },
+    {
+      "title": "گند دلين جو عشق اچي ڌوئي",
+      "type": {
+        "sd": "صوفي ڪافي",
+        "ur": "صوفی کافی",
+        "en": "Sufi Kafi"
+      },
+      "voice": {
+        "sd": "طارق چارڻ",
+        "ur": "طارق چڑن",
+        "en": "Tariq Charan"
+      },
+      "url": "https://www.youtube.com/watch?v=ZWZN2hJiG3s",
+      "duration": "5:41"
+    },
+    {
+      "title": "عشق بردبار آھ",
+      "type": {
+        "sd": "صوفي ڪافي",
+        "ur": "صوفی کافی",
+        "en": "Sufi Kafi"
+      },
+      "voice": {
+        "sd": "طارق چارڻ",
+        "ur": "طارق چڑن",
+        "en": "Tariq Charan"
+      },
+      "url": "https://www.youtube.com/watch?v=THtIoSNTr8g",
+      "duration": "2:27"
+    },
+    {
+      "title": "حضرت سچل سرمست جي رنگ مان متاثر",
+      "type": {
+        "sd": "صوفي ڪافي",
+        "ur": "صوفی کافی",
+        "en": "Sufi Kafi"
+      },
+      "voice": {
+        "sd": "طارق چارڻ",
+        "ur": "طارق چڑن",
+        "en": "Tariq Charan"
+      },
+      "url": "https://www.youtube.com/watch?v=2qfiYFFnrZA",
+      "duration": ""
+    },
+    {
+      "title": "مٺو محب مونکي ملڻ ئي نٿو ڏي",
+      "type": {
+        "sd": "نعت",
+        "ur": "نعت",
+        "en": "Naat"
+      },
+      "voice": {
+        "sd": "نواز مري",
+        "ur": "نواز مری",
+        "en": "Nawaz Mari"
+      },
+      "url": "https://www.youtube.com/watch?v=xyRapRG344w",
+      "duration": ""
+    },
+    {
+      "title": "ھر ويل مونکي تنهنجي ياد سڄڻ",
+      "type": {
+        "sd": "نعت",
+        "ur": "نعت",
+        "en": "Naat"
+      },
+      "voice": {
+        "sd": "نواز مري",
+        "ur": "نواز مری",
+        "en": "Nawaz Mari"
+      },
+      "url": "https://www.youtube.com/watch?v=rs73ekuLcYo",
+      "duration": ""
+    },
+    {
+      "title": "اڄ مٺي محبوب کي چئجو وڃي منھنجا سلام",
+      "type": {
+        "sd": "نعت",
+        "ur": "نعت",
+        "en": "Naat"
+      },
+      "voice": {
+        "sd": "نواز مري",
+        "ur": "نواز مری",
+        "en": "Nawaz Mari"
+      },
+      "url": "https://www.youtube.com/watch?v=acm3g5x9qMY",
+      "duration": ""
+    },
+    {
+      "title": "سيد سچي تي ھر دم",
+      "type": {
+        "sd": "نعت",
+        "ur": "نعت",
+        "en": "Naat"
+      },
+      "voice": {
+        "sd": "اڻڄاتل",
+        "ur": "نامعلوم",
+        "en": "Uncredited"
+      },
+      "url": "https://www.youtube.com/watch?v=fUceXz4kIZY",
+      "duration": ""
+    },
+    {
+      "title": "راحت جي رات آئي رانجھڻ رفيق آيو",
+      "type": {
+        "sd": "نعت",
+        "ur": "نعت",
+        "en": "Naat"
+      },
+      "voice": {
+        "sd": "خدا بخش ڪڇي",
+        "ur": "خدا بخش کچھی",
+        "en": "Khuda Bux Kachi"
+      },
+      "url": "https://www.youtube.com/watch?v=nhbZLASMlOg",
+      "duration": ""
+    },
+    {
+      "title": "صوفی کافی",
+      "type": {
+        "sd": "صوفي ڪافي",
+        "ur": "صوفی کافی",
+        "en": "Sufi Kafi"
+      },
+      "voice": {
+        "sd": "محمد نواز مري",
+        "ur": "محمد نواز مری",
+        "en": "Muhammad Nawaz Marri"
+      },
+      "url": "https://www.youtube.com/watch?v=bDy1gjG1KYk",
+      "duration": ""
+    },
+    {
+      "title": "Aaina-e-Dil",
+      "type": {
+        "sd": "صوفي ڪافي",
+        "ur": "صوفی کافی",
+        "en": "Sufi Kafi"
+      },
+      "voice": {
+        "sd": "محمد نواز مري",
+        "ur": "محمد نواز مری",
+        "en": "Muhammad Nawaz Marri"
+      },
+      "url": "https://www.youtube.com/watch?v=sQKXJMv6i88",
+      "duration": ""
+    }
+  ],
+  "mehfils": [
+    {
+      "name": {
+        "sd": "محفل درود پاڪ",
+        "ur": "محفل درود پاک",
+        "en": "Mehfil-e-Durood Pak"
+      },
+      "schedule": {
+        "sd": "هر چنڊ جي 29هين رات",
+        "ur": "ہر چاند کی 29ویں رات",
+        "en": "29th night of every lunar month"
+      },
+      "venue": {
+        "sd": "مختلف هنڌ — مقامي يونٽ",
+        "ur": "مختلف مقامات — مقامی یونٹ",
+        "en": "Various venues — local units"
+      },
+      "organizer": {
+        "sd": "انجمن غلامان قلندر",
+        "ur": "انجمن غلامان قلندر",
+        "en": "Anjuman Ghulaman-e-Qalandar"
+      },
+      "details": {
+        "sd": "هر مهيني چنڊ جي 29هين رات درود پاڪ جي محفل ٿيندي آهي. ميمبرن کي پنهنجي پاڙي ۾ محفلون ڪرائڻ جي ترغيب ڏني ويئي آهي.",
+        "ur": "ہر مہینے چاند کی 29ویں رات درود پاک کی محفل ہوتی ہے۔ اراکین کو اپنے محلے میں محفلیں کرانے کی ترغیب دی گئی ہے۔",
+        "en": "On the 29th night of every lunar month a Mehfil-e-Durood Pak is held. Members are encouraged to organize mehfils in their own neighborhoods."
+      }
+    },
+    {
+      "name": {
+        "sd": "بيبي مٺي محفل",
+        "ur": "بیبی مٹھی محفل",
+        "en": "Bibi Mithi Mehfil"
+      },
+      "schedule": {
+        "sd": "هر چنڊ جي 27هين رات",
+        "ur": "ہر چاند کی 27ویں رات",
+        "en": "27th night of every lunar month"
+      },
+      "venue": {
+        "sd": "بيبي مٺي قبرستان، ڪنري",
+        "ur": "بیبی مٹھی قبرستان، کنری",
+        "en": "Bibi Mithi Cemetery, Kunri"
+      },
+      "organizer": {
+        "sd": "انجمن غلامان قلندر",
+        "ur": "انجمن غلامان قلندر",
+        "en": "Anjuman Ghulaman-e-Qalandar"
+      },
+      "details": {
+        "sd": "جيجان بيبي مٺي جي مزار تي هر چنڊ جي 27هين رات محفل ٿيندي آهي.",
+        "ur": "جیجان بیبی مٹھی کے مزار پر ہر چاند کی 27ویں رات محفل ہوتی ہے۔",
+        "en": "A mehfil is held every lunar month on the 27th night at the shrine of Jijan Bibi Mithi."
+      }
+    },
+    {
+      "name": {
+        "sd": "محفل هديو ڪثرت درود پاڪ",
+        "ur": "محفل ہدیہ کثرت درود پاک",
+        "en": "Mehfil-e-Hadiya-e-Kasrat-e-Durood-e-Pak"
+      },
+      "schedule": {
+        "sd": "ساليانو",
+        "ur": "سالانہ",
+        "en": "Annual"
+      },
+      "venue": {
+        "sd": "مرڪزي مقام — اعلان جلد",
+        "ur": "مرکزی مقام — اعلان جلد",
+        "en": "Central venue — announced in advance"
+      },
+      "organizer": {
+        "sd": "انجمن غلامان قلندر",
+        "ur": "انجمن غلامان قلندر",
+        "en": "Anjuman Ghulaman-e-Qalandar"
+      },
+      "details": {
+        "sd": "سال ۾ هڪ ڀيرو ڪثرت درود پاڪ جي هديي جي محفل ملهائي ويندي آهي.",
+        "ur": "سال میں ایک بار کثرت درود پاک کے ہدیے کی محفل منائی جاتی ہے۔",
+        "en": "Once a year the grand mehfil of abundant Durood Pak is held."
+      }
+    }
+  ],
+  "books": [
+    {
+      "id": "wartam-bhar-bhittai",
+      "title": {
+        "sd": "ورتم ڀر ڀٽائي جو",
+        "ur": "ورتم بھر بھٹائی جو",
+        "en": "Wartam Bhar Bhittai Jo"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/05/Wartam-Bhar-Bhittai.pdf"
+    },
+    {
+      "id": "asbaq-e-ishq",
+      "title": {
+        "sd": "اسباق عشق",
+        "ur": "اسباق عشق",
+        "en": "Asbaq-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/05/Asbaq-E-Ishq.pdf"
+    },
+    {
+      "id": "hidayat-nama-j2",
+      "title": {
+        "sd": "هدايت نامو سلوڪ قلندري (جلد 2)",
+        "ur": "ہدایت نامہ سلوک قلندری (جلد 2)",
+        "en": "Hidayat Nama Sulook-e-Qalandari (Vol. 2)"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/04/Hidayat-Nama-Sulook-e-Qalandari-JILD-02.pdf"
+    },
+    {
+      "id": "aasar-qayamat-ur",
+      "title": {
+        "sd": "آثار قيامت (اردو)",
+        "ur": "آثار قیامت (اردو)",
+        "en": "Aasar-e-Qayamat (Urdu)"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/04/Aasar-e-Qayamat-Urdu.pdf"
+    },
+    {
+      "id": "goonjiya-geet",
+      "title": {
+        "sd": "گونجيا گيت حيدر جا",
+        "ur": "گونجیا گیت حیدر جا",
+        "en": "Goonjiya Geet Haider Ja"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/04/Goonjiya-Geet-Haider-Ja.pdf"
+    },
+    {
+      "id": "tehkan-men-takorra",
+      "title": {
+        "sd": "Tehkan Men Takorra",
+        "ur": "Tehkan Men Takorra",
+        "en": "Tehkan Men Takorra"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Tehkan-Men-Takorra.pdf"
+    },
+    {
+      "id": "safar-e-ishq",
+      "title": {
+        "sd": "سفر عشق",
+        "ur": "سفر عشق",
+        "en": "Safar-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Safar-e-Ishq.pdf"
+    },
+    {
+      "id": "sabh-chalta-he",
+      "title": {
+        "sd": "Sabh Chalta He",
+        "ur": "Sabh Chalta He",
+        "en": "Sabh Chalta He"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Sabh-Chalta-He-1.pdf"
+    },
+    {
+      "id": "pireen-je-par",
+      "title": {
+        "sd": "Pireen Je Par Joon Galhyoon",
+        "ur": "Pireen Je Par Joon Galhyoon",
+        "en": "Pireen Je Par Joon Galhyoon"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Pireen-je-Par-Joon-Galhyoon.pdf"
+    },
+    {
+      "id": "maqam-e-mohabat",
+      "title": {
+        "sd": "مقام محبت",
+        "ur": "مقام محبت",
+        "en": "Maqam-e-Mohabat"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Maqam-e-Mohabat.pdf"
+    },
+    {
+      "id": "maidan-e-ishq",
+      "title": {
+        "sd": "ميدان عشق",
+        "ur": "میدان عشق",
+        "en": "Maidan-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Maidan-e-Ishq.pdf"
+    },
+    {
+      "id": "khair-khuwai",
+      "title": {
+        "sd": "خير خواهي جي خيرات",
+        "ur": "خیر خواہی جی خیرات",
+        "en": "Khair Khuwai Ji Khairat"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Khair-Khuwai-Ji-Khairat.pdf"
+    },
+    {
+      "id": "chand-chehro",
+      "title": {
+        "sd": "Chand Chehro Mehboob Jo",
+        "ur": "Chand Chehro Mehboob Jo",
+        "en": "Chand Chehro Mehboob Jo"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2026/02/Chand-Chehro-Mehboob-Jo.pdf"
+    },
+    {
+      "id": "nichori-neehn",
+      "title": {
+        "sd": "Nichori Neehn Jin Khy",
+        "ur": "Nichori Neehn Jin Khy",
+        "en": "Nichori Neehn Jin Khy"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/09/Nichori-Neehn-Jin-khy.pdf"
+    },
+    {
+      "id": "sajan-jin-khy",
+      "title": {
+        "sd": "Sajan Jin Khy Sadhyo",
+        "ur": "Sajan Jin Khy Sadhyo",
+        "en": "Sajan Jin Khy Sadhyo"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/09/Sajjan-Jin-Khy-Sadhyo.pdf"
+    },
+    {
+      "id": "inteqal-e-ishq",
+      "title": {
+        "sd": "انتقال عشق",
+        "ur": "انتقال عشق",
+        "en": "Inteqal-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/08/Inteqal-e-Ishq.pdf"
+    },
+    {
+      "id": "ailan-e-ishq",
+      "title": {
+        "sd": "اعلان عشق",
+        "ur": "اعلان عشق",
+        "en": "Ailan-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/08/Ailan-Ishq.pdf"
+    },
+    {
+      "id": "paigam-e-ishq",
+      "title": {
+        "sd": "پيغام عشق",
+        "ur": "پیغام عشق",
+        "en": "Paigam-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Paigam-e-Ishq.pdf"
+    },
+    {
+      "id": "manshoor",
+      "title": {
+        "sd": "منشور اي جي ڪيو سنڌ پاڪستان",
+        "ur": "منشور اے جی کیو سندھ پاکستان",
+        "en": "Manshoor AGQ Sindh Pakistan"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/AGQWSP-MANSHOOR.pdf"
+    },
+    {
+      "id": "rumi-ji-otaq",
+      "title": {
+        "sd": "Rumi Ji Otaq",
+        "ur": "Rumi Ji Otaq",
+        "en": "Rumi Ji Otaq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Rumi-Ji-otaq.pdf"
+    },
+    {
+      "id": "salient-sufism",
+      "title": {
+        "sd": "Salient Message of Sufism",
+        "ur": "Salient Message of Sufism",
+        "en": "Salient Message of Sufism"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Salient-Message-of-Sufism-Done.pdf"
+    },
+    {
+      "id": "vision-of-life",
+      "title": {
+        "sd": "Vision of Life",
+        "ur": "Vision of Life",
+        "en": "Vision of Life"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Vision-of-the-life.pdf"
+    },
+    {
+      "id": "raaz-e-ishq",
+      "title": {
+        "sd": "راز عشق",
+        "ur": "راز عشق",
+        "en": "Raaz-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Raz-e-Ishq-Finale.pdf"
+    },
+    {
+      "id": "raghoon-thiyoon",
+      "title": {
+        "sd": "Raghoon Thiyoon Rabaab",
+        "ur": "Raghoon Thiyoon Rabaab",
+        "en": "Raghoon Thiyoon Rabaab"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Raghoon-Thiyoon-Rabaab.pdf"
+    },
+    {
+      "id": "hidayat-nama",
+      "title": {
+        "sd": "هدايت نامو سلوڪ قلندري",
+        "ur": "ہدایت نامہ سلوک قلندری",
+        "en": "Hidayat Nama Salook-e-Qalandari"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Hidayat-Nama-Done.pdf"
+    },
+    {
+      "id": "azan-e-ishq",
+      "title": {
+        "sd": "اذان عشق",
+        "ur": "اذان عشق",
+        "en": "Azan-e-Ishq"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Azan-e-Ishq.pdf"
+    },
+    {
+      "id": "aasar-e-qayamat",
+      "title": {
+        "sd": "آثار قيامت",
+        "ur": "آثار قیامت",
+        "en": "Aasar-e-Qayamat"
+      },
+      "shelf": 0,
+      "pdf_url": "https://agqsindhpakistan.com/wp-content/uploads/2025/07/Asar-Qayamat.pdf"
+    }
+  ],
+  "news": [
+    {
+      "id": "tando-allahyar-mehfil-2026",
+      "title": {
+        "sd": "ٽنڊو الهيار ۾ محفل هديو ڪثرت درود پاڪ",
+        "ur": "ٹنڈو الہیار میں محفل ہدیہ کثرت درود پاک",
+        "en": "Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak — Tando Allahyar"
+      },
+      "body": {
+        "sd": "سائين سيد غلام حيدر شاهه قلندري ٽنڊو الهيار ۾ درٻار حيدر شاهه بخاري تي منعقد محفل هديو ڪثرت درود پاڪ ۾ خطاب ڪيو. فرمايائون ته معاشري ۾ حقيقي تبديلي جو آغاز انسان جي پنهنجي اصلاح سان ٿئي ٿو؛ انا، غرور، حسد ۽ نفرت ختم ڪرڻ کان سواءِ اخلاقي ۽ روحاني اصلاح ممڪن ناهي. شاهه عبداللطيف ڀٽائي جي فڪر جو حوالو ڏيندي فرمايو ته موبائل ۽ AI کي علم ۽ خدمت لاءِ استعمال ڪيو، ڪوڙ، غيبت ۽ نفرت لاءِ نه.",
+        "ur": "سائیں سید غلام حیدر شاہ قلندری نے ٹنڈو الہیار میں دربار حیدر شاہ بخاری پر منعقدہ محفل ہدیہ کثرت درود پاک میں خطاب کیا۔ فرمایا کہ معاشرے میں حقیقی تبدیلی کا آغاز انسان کی اپنی اصلاح سے ہوتا ہے؛ انا، غرور، حسد اور نفرت ختم کیے بغیر اخلاقی اور روحانی اصلاح ممکن نہیں۔ شاہ عبداللطیف بھٹائی کے فکر کا حوالہ دیتے ہوئے فرمایا کہ موبائل اور AI کو علم اور خدمت کے لیے استعمال کرو، جھوٹ، غیبت اور نفرت کے لیے نہیں۔",
+        "en": "Sain Syed Ghulam Hyder Shah Qalandari addressed the Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak held at Darbar Haider Shah Bukhari, Tando Allahyar (arranged by Anjuman Ghulaman-e-Qalandar Welfare Pakistan). He said real change in society begins with one's own reform — without ending ego, pride, jealousy and hatred, moral and spiritual reform is not possible. Citing Shah Abdul Latif Bhittai's thought on self-awareness, he said use mobile and AI for knowledge and service, not for lies, backbiting and hatred."
+      },
+      "date": "2026-10-14",
+      "image": "https://sacredsites.com/images/asia/pakistan/gallery/Shah-Abdul-Latif-Bhittai-Bhit-Shah-1.jpg",
+      "gallery": [
+        "https://sacredsites.com/images/asia/pakistan/gallery/Shah-Abdul-Latif-Bhittai-Bhit-Shah-2.jpg",
+        "https://clickpakistan.org/wp-content/uploads/2020/05/Shrine-Shah-Abdul-Latif.jpg"
+      ]
+    },
+    {
+      "id": "chaudveen-mehfil-2026",
+      "title": {
+        "sd": "ساليانو محفل هديو ڪثرت درود پاڪ — 25 آڪٽوبر",
+        "ur": "سالانہ محفل ہدیہ کثرت درود پاک — 25 اکتوبر",
+        "en": "Annual Mehfil Hadiya-e-Kasrat-e-Durood Pak — 25 October"
+      },
+      "body": {
+        "sd": "انجمن غلامان قلندر ويلفيئر سنڌ پاڪستان جي سالياني محفل هديو ڪثرت درود پاڪ 25 آڪٽوبر تي ٿيندي. پروگرام صبح 8 وڳي شروع ٿيندو: تلاوت 8:15، نعت 8:30، روحاني خطاب 9:00 ۽ دعا 10:00 وڳي.",
+        "ur": "انجمن غلامان قلندر ویلفیئر سندھ پاکستان کی سالانہ محفل ہدیہ کثرت درود پاک 25 اکتوبر کو ہوگی۔ پروگرام صبح 8 بجے شروع ہوگا: تلاوت 8:15، نعت 8:30، روحانی خطاب 9:00 اور دعا 10:00 بجے۔",
+        "en": "Anjuman Ghulaman-e-Qalandar Welfare Sindh Pakistan's annual Mehfil Hadiya-e-Kasrat-e-Durood Pak will be held on 25 October. Program starts 8:00 AM: Tilawat 8:15, Naat 8:30, spiritual address 9:00 and Dua 10:00 AM."
+      },
+      "date": "2026-10-25",
+      "image": "https://sacredsites.com/images/asia/pakistan/gallery/Lal-Shahbaz-Qalandar-Shrine-Sehwan-Sharif-1.jpg",
+      "gallery": [
+        "https://aboutislam.net/wp-content/uploads/2025/10/Quran-with-tasbeh-1024x576.png",
+        "https://onlyhdwallpapers.com/quran-with-prayer-beads-2-thumbnail.jpg"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "sd": "عشق ئي عبادت آهي، خدمت ئي سچو دين آهي.",
+      "ur": "عشق ہی عبادت ہے، خدمت ہی سچا دین ہے۔",
+      "en": "Love is worship; service is the true faith."
+    },
+    {
+      "sd": "جيڪو پاڻ کي سڃاڻي، سو خدا کي سڃاڻي.",
+      "ur": "جو اپنے آپ کو پہچانے، وہ خدا کو پہچانے۔",
+      "en": "One who knows himself knows God."
+    },
+    {
+      "sd": "دل جي صفائي کان سواءِ ڪابه عبادت قبول ناهي.",
+      "ur": "دل کی صفائی کے بغیر کوئی عبادت قبول نہیں۔",
+      "en": "No worship is accepted without purity of heart."
+    },
+    {
+      "sd": "فقير اهو، جنهن وٽ سڀ ڪجهه هجي پر دل خالي هجي دنيا کان.",
+      "ur": "فقیر وہ، جس کے پاس سب کچھ ہو پر دل دنیا سے خالی ہو۔",
+      "en": "A faqir is one who has everything yet whose heart is empty of the world."
+    },
+    {
+      "sd": "ذڪر سان دل جا زنگ لهي ويندا آهن.",
+      "ur": "ذکر سے دل کے زنگ اتر جاتے ہیں۔",
+      "en": "Remembrance removes the rust of hearts."
+    },
+    {
+      "sd": "عاجزي وڏي کان وڏي طاقت آهي.",
+      "ur": "عاجزی بڑی سے بڑی طاقت ہے۔",
+      "en": "Humility is the greatest strength."
+    },
+    {
+      "sd": "ٻٽاڪ، ڊاڙَ سڀ هوا بادي آهن، مشقت کان سواءِ منزل ناهي ملندي، منزلون وري محبت سان سلهاڙيل هونديون آهن.",
+      "ur": "بڑھکیں اور بڑے دعوے سب ہوا بادی ہیں؛ مشقت کے بغیر منزل نہیں ملتی، اور منزلیں محبت سے سنورتی ہیں۔",
+      "en": "Boasts and grand claims are all empty air; without toil no destination is reached — and destinations are adorned with love."
+    },
+    {
+      "sd": "جيڪو ورهائي ٿو، سو ئي اصل ۾ ماڻي ٿو.",
+      "ur": "جو بانٹتا ہے، وہی اصل میں پاتا ہے۔",
+      "en": "One who gives is the one who truly gains."
+    },
+    {
+      "sd": "صوفي اهو، جيڪو هر دل ۾ خدا ڏسي.",
+      "ur": "صوفی وہ، جو ہر دل میں خدا دیکھے۔",
+      "en": "A Sufi is one who sees God in every heart."
+    }
+  ]
+}
