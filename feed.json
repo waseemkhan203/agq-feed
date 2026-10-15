@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-10-14",
+  "version": 6,
+  "updated": "2026-10-15T05:25:38Z",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
     {
@@ -336,6 +336,33 @@
         "sd": "سال ۾ هڪ ڀيرو ڪثرت درود پاڪ جي هديي جي محفل ملهائي ويندي آهي.",
         "ur": "سال میں ایک بار کثرت درود پاک کے ہدیے کی محفل منائی جاتی ہے۔",
         "en": "Once a year the grand mehfil of abundant Durood Pak is held."
+      }
+    },
+    {
+      "name": {
+        "sd": "ساليانو چوڏھين محفل — 25 آڪٽوبر",
+        "ur": "سالانہ چودھویں محفل — 25 اکتوبر",
+        "en": "Annual Chaudveen Mehfil — 25 October"
+      },
+      "schedule": {
+        "sd": "25 آڪٽوبر 2026 — صبح 8 وڳي کان",
+        "ur": "25 اکتوبر 2026 — صبح 8 بجے سے",
+        "en": "25 October 2026 — from 8:00 AM"
+      },
+      "venue": {
+        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جو مزار",
+        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کا مزار",
+        "en": "Dargah of Dada Sain Haji Muhammad Yousuf Shah (RA)"
+      },
+      "organizer": {
+        "sd": "AGQ ويلفيئر پاڪستان — انفارميشن ڊپارٽمينٽ",
+        "ur": "AGQ ویلفیئر پاکستان — انفارمیشن ڈیپارٹمنٹ",
+        "en": "AGQ Welfare Pakistan — Information Department"
+      },
+      "details": {
+        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جي مزار تي سالياني چوڏھين محفل هديو ڪثرت درود پاڪ. پروگرام: 8:00 شروعات، 8:15 تلاوت، 8:30 نعت، 9:00 روحاني خطاب، 10:00 دعا. هجري تاريخ: 13 جمادي الاول. رابطو: 03013996819 / 0300348688.",
+        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کے مزار پر سالانہ چودھویں محفل ہدیہ کثرت درود پاک۔ پروگرام: 8:00 آغاز، 8:15 تلاوت، 8:30 نعت، 9:00 روحانی خطاب، 10:00 دعا۔ ہجری تاریخ: 13 جمادی الاول۔ رابطہ: 03013996819 / 0300348688۔",
+        "en": "Annual Chaudveen Mehfil Hadiya-e-Kasrat-e-Durood Pak at the dargah of Dada Sain Haji Muhammad Yousuf Shah (RA). Program: 8:00 start, 8:15 Tilawat, 8:30 Naat, 9:00 spiritual address, 10:00 Dua. Hijri date: 13 Jumada al-Awwal. Contact: 03013996819 / 0300348688."
       }
     }
   ],
