@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated": "2026-10-16T15:05:07Z",
+  "version": 8,
+  "updated": "2026-10-22",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
     {
@@ -676,6 +676,22 @@
         "https://aboutislam.net/wp-content/uploads/2025/10/Quran-with-tasbeh-1024x576.png",
         "https://onlyhdwallpapers.com/quran-with-prayer-beads-2-thumbnail.jpg"
       ]
+    },
+    {
+      "id": "sarbarah-ashiana-qalandri-2026",
+      "title": {
+        "sd": "سربراهه جي آشيانا قلندري تي آمد",
+        "ur": "سربراہ کی آشیانہ قلندری میں آمد",
+        "en": "Leader's arrival at Ashiana Qalandri"
+      },
+      "body": {
+        "sd": "انجمن غلامان قلندر ويلفيئر پاڪستان جي سربراهه بابا سائين سيد غلام حيدر شاھ ڪاظمي ڳوٺ حاجي حبيب الله ھاليپوٽو م آشيانا قلندري تي پهتا. انهن جي آمد تي محفل ٿي.",
+        "ur": "انجمن غلامان قلندر ویلفیئر پاکستان کے سربراہ بابا سائیں سید غلام حیدر شاہ کاظمی گاؤں حاجی حبیب اللہ ہالیپوٹو میں آشیانہ قلندری پر پہنچے۔ ان کی آمد پر محفل ہوئی۔",
+        "en": "Baba Sain Syed Ghulam Haider Shah Kazmi, head of Anjuman Ghulaman-e-Qalandar Welfare Pakistan, arrived at Ashiana Qalandri in village Haji Habibullah Halepoto. A mehfil was held on his arrival."
+      },
+      "date": "2026-10-22",
+      "image": "https://sacredsites.com/images/asia/pakistan/gallery/Lal-Shahbaz-Qalandar-Shrine-Sehwan-Sharif-1.jpg",
+      "gallery": []
     }
   ],
   "quotes": [
