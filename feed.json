@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated": "2026-10-22",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -691,6 +691,22 @@
       },
       "date": "2026-10-22",
       "image": "https://sacredsites.com/images/asia/pakistan/gallery/Lal-Shahbaz-Qalandar-Shrine-Sehwan-Sharif-1.jpg",
+      "gallery": []
+    },
+    {
+      "id": "mehfil-hadiya-samaro-2026",
+      "title": {
+        "sd": "سمارو ۾ محفل هديو ڪثرت درود پاڪ — 30 آڪٽوبر 2026",
+        "ur": "سامارو میں محفل ہدیہ کثرت درود پاک — 30 اکتوبر 2026",
+        "en": "Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak announced — Samaro, 30 October 2026"
+      },
+      "body": {
+        "sd": "انجمن غلامان قلندر ويلفيئر پاڪستان جي سربراهه سائين سيد غلام حيدر شاھ 'حيدر قلندري' جي صفحي تي اعلان ڪيو ويو ته محفل هديو ڪثرت درود پاڪ ﷺ جو انعقاد انشاءالله 30 اڪٽوبر 2026ع جمعي جي ڏينهن ڇنڇر جي رات سمارو، پاڪستان ۾ ٿيندو. (اعلان جي مڪمل تفصيل پوسٽ جي پوري متن ۾ آهي؛ پريويو ۾ متن ڪٽيو ويو هو.)",
+        "ur": "انجمن غلامان قلندر ویلفیئر پاکستان کے سربراہ سائیں سید غلام حیدر شاہ 'حیدر قلندری' کے صفحے پر اعلان کیا گیا کہ محفل ہدیہ کثرت درود پاک ﷺ کا انعقاد ان شاء اللہ 30 اکتوبر 2026 بروز جمعہ (چھنچھر کی رات) سامارو، پاکستان میں ہوگا۔ (اعلان کی مکمل تفصیل پوسٹ کے پورے متن میں ہے؛ پریویو میں متن کٹا ہوا تھا۔)",
+        "en": "An announcement on the page of Sain Syed Ghulam Hyder Shah 'Hyder Qalandari', head of Anjuman Ghulaman-e-Qalandar Welfare Pakistan: a Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak ﷺ will be held, Insha'Allah, on Friday 30 October 2026 (through Saturday night) in Samaro, Pakistan. (Full details are in the complete announcement; the post text was truncated in the preview.)"
+      },
+      "date": "2026-10-30",
+      "image": "",
       "gallery": []
     }
   ],
