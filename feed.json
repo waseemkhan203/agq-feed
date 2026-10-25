@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updated": "2026-10-25",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -2592,6 +2592,213 @@
       },
       "url": "https://www.youtube.com/watch?v=PTAKPYtP7VY",
       "kind": "video",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w8",
+      "leader": 2,
+      "title": {
+        "sd": "A journey of love and loyalty",
+        "ur": "A journey of love and loyalty",
+        "en": "A journey of love and loyalty"
+      },
+      "year": 2024,
+      "date": "2024-07-04",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/07/04/a-journey-of-love-and-loyalty/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w9",
+      "leader": 2,
+      "title": {
+        "sd": "Chapter on Qalandri Ideology",
+        "ur": "Chapter on Qalandri Ideology",
+        "en": "Chapter on Qalandri Ideology"
+      },
+      "year": 2024,
+      "date": "2024-04-04",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/04/04/chapter-on-qalandri-ideology/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w10",
+      "leader": 2,
+      "title": {
+        "sd": "Sufi La Kufi",
+        "ur": "Sufi La Kufi",
+        "en": "Sufi La Kufi"
+      },
+      "year": 2024,
+      "date": "2024-06-02",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/06/02/sufi-la-kufi/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w11",
+      "leader": 2,
+      "title": {
+        "sd": "The Same Limit of Two's",
+        "ur": "The Same Limit of Two's",
+        "en": "The Same Limit of Two's"
+      },
+      "year": 2024,
+      "date": "2024-05-20",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/05/20/the-same-limit-of-twos/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w12",
+      "leader": 2,
+      "title": {
+        "sd": "Take the foots back",
+        "ur": "Take the foots back",
+        "en": "Take the foots back"
+      },
+      "year": 2024,
+      "date": "2024-05-20",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/05/20/take-the-foots-back/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w13",
+      "leader": 2,
+      "title": {
+        "sd": "Allah, do not make me wise",
+        "ur": "Allah, do not make me wise",
+        "en": "Allah, do not make me wise"
+      },
+      "year": 2024,
+      "date": "2024-10-28",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/10/28/allah-do-not-make-me-wise/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w14",
+      "leader": 2,
+      "title": {
+        "sd": "What is mine now in Bhanbhor?",
+        "ur": "What is mine now in Bhanbhor?",
+        "en": "What is mine now in Bhanbhor?"
+      },
+      "year": 2024,
+      "date": "2024-04-28",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/04/28/what-is-mine-now-in-bhanbhor/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w15",
+      "leader": 2,
+      "title": {
+        "sd": "Tariqat",
+        "ur": "Tariqat",
+        "en": "Tariqat"
+      },
+      "year": 2024,
+      "date": "2024-03-23",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/03/23/tariqat/",
+      "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-w16",
+      "leader": 2,
+      "title": {
+        "sd": "Prophet Muhammad (SAW)",
+        "ur": "Prophet Muhammad (SAW)",
+        "en": "Prophet Muhammad (SAW)"
+      },
+      "year": 2024,
+      "date": "2024-03-17",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://agqsindhpakistan.com/index.php/2024/03/17/prophet-muhammad-saw/",
+      "kind": "article",
       "body": {
         "sd": "",
         "ur": "",
