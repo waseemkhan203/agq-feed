@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "updated": "2026-10-25",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -350,9 +350,9 @@
         "en": "25 October 2026 — from 8:00 AM"
       },
       "venue": {
-        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جو مزار",
-        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کا مزار",
-        "en": "Dargah of Dada Sain Haji Muhammad Yousuf Shah (RA)"
+        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جو مزار، مسو ڀرڳڙي، ٽنڊو ڄام",
+        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کا مزار، مسو بھرگڑی، ٹنڈو جام",
+        "en": "Dargah of Dada Sain Haji Muhammad Yousuf Shah (RA), Maso Bhurgri, Tando Jam"
       },
       "organizer": {
         "sd": "AGQ ويلفيئر پاڪستان — انفارميشن ڊپارٽمينٽ",
@@ -360,9 +360,36 @@
         "en": "AGQ Welfare Pakistan — Information Department"
       },
       "details": {
-        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جي مزار تي سالياني چوڏھين محفل هديو ڪثرت درود پاڪ. پروگرام: 8:00 شروعات، 8:15 تلاوت، 8:30 نعت، 9:00 روحاني خطاب، 10:00 دعا. هجري تاريخ: 13 جمادي الاول. رابطو: 03013996819 / 0300348688.",
-        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کے مزار پر سالانہ چودھویں محفل ہدیہ کثرت درود پاک۔ پروگرام: 8:00 آغاز، 8:15 تلاوت، 8:30 نعت، 9:00 روحانی خطاب، 10:00 دعا۔ ہجری تاریخ: 13 جمادی الاول۔ رابطہ: 03013996819 / 0300348688۔",
-        "en": "Annual Chaudveen Mehfil Hadiya-e-Kasrat-e-Durood Pak at the dargah of Dada Sain Haji Muhammad Yousuf Shah (RA). Program: 8:00 start, 8:15 Tilawat, 8:30 Naat, 9:00 spiritual address, 10:00 Dua. Hijri date: 13 Jumada al-Awwal. Contact: 03013996819 / 0300348688."
+        "sd": "ڏاڏا سائين حاجي محمد يوسف شاهه رح جي مزار تي سالياني چوڏھين محفل هديو ڪثرت درود پاڪ. پروگرام: 8:00 شروعات، 8:15 تلاوت، 8:30 نعت، 9:00 روحاني خطاب، 10:00 دعا. هجري تاريخ: 13 جمادي الاول. رابطو: 03013996819 / 0300348688. شام جو پروگرام: درود قلندري اويسيه ۽ لفظ امي ۽ شاهدن مبشرا نظيرا جي تفسير، دعا ۽ خطاب سائين سيد غلام حيدر شاهه قلندري ڪندا.",
+        "ur": "ڈاڈا سائیں حاجی محمد یوسف شاہ رح کے مزار پر سالانہ چودھویں محفل ہدیہ کثرت درود پاک۔ پروگرام: 8:00 آغاز، 8:15 تلاوت، 8:30 نعت، 9:00 روحانی خطاب، 10:00 دعا۔ ہجری تاریخ: 13 جمادی الاول۔ رابطہ: 03013996819 / 0300348688۔ شام کا پروگرام: درود قلندری اویسیہ اور لفظ امی اور شاہدان مبشرہ نظیرہ کی تفسیر، دعا اور خطاب سائیں سید غلام حیدر شاہ قلندری کریں گے۔",
+        "en": "Annual Chaudveen Mehfil Hadiya-e-Kasrat-e-Durood Pak at the dargah of Dada Sain Haji Muhammad Yousuf Shah (RA). Program: 8:00 start, 8:15 Tilawat, 8:30 Naat, 9:00 spiritual address, 10:00 Dua. Hijri date: 13 Jumada al-Awwal. Contact: 03013996819 / 0300348688. Evening program: Durood Qalandari Owaisiya and interpretation of 'Ummi' and 'Shahidan Mubashira Nazeera'; Dua and address by Sain Syed Ghulam Hyder Shah Qalandari."
+      }
+    },
+    {
+      "name": {
+        "sd": "سمارو ۾ محفل هديو ڪثرت درود پاڪ",
+        "ur": "سامارو میں محفل ہدیہ کثرت درود پاک",
+        "en": "Mehfil-e-Hadiya Kasrat-e-Durood-e-Pak — Samaro"
+      },
+      "schedule": {
+        "sd": "30 آڪٽوبر 2026 — جمعو",
+        "ur": "30 اکتوبر 2026 — جمعہ",
+        "en": "30 October 2026 — Friday"
+      },
+      "venue": {
+        "sd": "سمارو، پاڪستان",
+        "ur": "سامارو، پاکستان",
+        "en": "Samaro, Pakistan"
+      },
+      "organizer": {
+        "sd": "انجمن غلامان قلندر ويلفيئر پاڪستان",
+        "ur": "انجمن غلامان قلندر ویلفیئر پاکستان",
+        "en": "Anjuman Ghulaman-e-Qalandar Welfare Pakistan"
+      },
+      "details": {
+        "sd": "انجمن غلامان قلندر ويلفيئر پاڪستان جي سربراهه سائين سيد غلام حيدر شاھ 'حيدر قلندري' جي صفحي تي اعلان ڪيو ويو ته محفل هديو ڪثرت درود پاڪ ﷺ جو انعقاد انشاءالله 30 اڪٽوبر 2026ع جمعي جي ڏينهن ڇنڇر جي رات سمارو، پاڪستان ۾ ٿيندو. (اعلان جي مڪمل تفصيل پوسٽ جي پوري متن ۾ آهي؛ پريويو ۾ متن ڪٽيو ويو هو.)",
+        "ur": "انجمن غلامان قلندر ویلفیئر پاکستان کے سربراہ سائیں سید غلام حیدر شاہ 'حیدر قلندری' کے صفحے پر اعلان کیا گیا کہ محفل ہدیہ کثرت درود پاک ﷺ کا انعقاد ان شاء اللہ 30 اکتوبر 2026 بروز جمعہ (چھنچھر کی رات) سامارو، پاکستان میں ہوگا۔ (اعلان کی مکمل تفصیل پوسٹ کے پورے متن میں ہے؛ پریویو میں متن کٹا ہوا تھا۔)",
+        "en": "An announcement on the page of Sain Syed Ghulam Hyder Shah 'Hyder Qalandari', head of Anjuman Ghulaman-e-Qalandar Welfare Pakistan: a Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak ﷺ will be held, Insha'Allah, on Friday 30 October 2026 (through Saturday night) in Samaro, Pakistan. (Full details are in the complete announcement; the post text was truncated in the preview.)"
       }
     }
   ],
@@ -666,9 +693,9 @@
         "en": "Annual Mehfil Hadiya-e-Kasrat-e-Durood Pak — 25 October"
       },
       "body": {
-        "sd": "انجمن غلامان قلندر ويلفيئر سنڌ پاڪستان جي سالياني محفل هديو ڪثرت درود پاڪ 25 آڪٽوبر تي ٿيندي. پروگرام صبح 8 وڳي شروع ٿيندو: تلاوت 8:15، نعت 8:30، روحاني خطاب 9:00 ۽ دعا 10:00 وڳي. ھنڌ: درگاھ ڏاڏا سائين حاجي محمد يوسف شاهه رح، مسو ڀرڳڙي، ٽنڊو ڄام. شام جو پروگرام: درود قلندري اويسيه ۽ لفظ امي ۽ شاهدن مبشرا نظيرا جي تفسير، دعا ۽ خطاب سائين سيد غلام حيدر شاهه قلندري ڪندا.",
-        "ur": "انجمن غلامان قلندر ویلفیئر سندھ پاکستان کی سالانہ محفل ہدیہ کثرت درود پاک 25 اکتوبر کو ہوگی۔ پروگرام صبح 8 بجے شروع ہوگا: تلاوت 8:15، نعت 8:30، روحانی خطاب 9:00 اور دعا 10:00 بجے۔ مقام: درگاہ دادا سائیں حاجی محمد یوسف شاہ، مسو بھرگڑی، ٹنڈو جام۔ شام کا پروگرام: درود قلندری اویسیہ اور لفظ امی اور شاہدان مبشرہ نظیرہ کی تفسیر، دعا اور خطاب سائیں سید غلام حیدر شاہ قلندری کریں گے۔",
-        "en": "Anjuman Ghulaman-e-Qalandar Welfare Sindh Pakistan's annual Mehfil Hadiya-e-Kasrat-e-Durood Pak will be held on 25 October. Program starts 8:00 AM: Tilawat 8:15, Naat 8:30, spiritual address 9:00 and Dua 10:00 AM. Venue: Dargah Dada Sain Haji Muhammad Yousuf Shah, Maso Bhurgri, Tando Jam. Evening program: Durood Qalandari Owaisiya and interpretation of 'Ummi' and 'Shahidan Mubashira Nazeera'; Dua and address by Sain Syed Ghulam Hyder Shah Qalandari."
+        "sd": "انجمن غلامان قلندر ويلفيئر سنڌ پاڪستان جي سالياني محفل هديو ڪثرت درود پاڪ 25 آڪٽوبر تي ٿي. پروگرام صبح 8 وڳي شروع ٿيندو: تلاوت 8:15، نعت 8:30، روحاني خطاب 9:00 ۽ دعا 10:00 وڳي. ھنڌ: درگاھ ڏاڏا سائين حاجي محمد يوسف شاهه رح، مسو ڀرڳڙي، ٽنڊو ڄام. شام جو پروگرام: درود قلندري اويسيه ۽ لفظ امي ۽ شاهدن مبشرا نظيرا جي تفسير، دعا ۽ خطاب سائين سيد غلام حيدر شاهه قلندري ڪندا.",
+        "ur": "انجمن غلامان قلندر ویلفیئر سندھ پاکستان کی سالانہ محفل ہدیہ کثرت درود پاک 25 اکتوبر کو ہوئی۔ پروگرام صبح 8 بجے شروع ہوگا: تلاوت 8:15، نعت 8:30، روحانی خطاب 9:00 اور دعا 10:00 بجے۔ مقام: درگاہ دادا سائیں حاجی محمد یوسف شاہ، مسو بھرگڑی، ٹنڈو جام۔ شام کا پروگرام: درود قلندری اویسیہ اور لفظ امی اور شاہدان مبشرہ نظیرہ کی تفسیر، دعا اور خطاب سائیں سید غلام حیدر شاہ قلندری کریں گے۔",
+        "en": "Anjuman Ghulaman-e-Qalandar Welfare Sindh Pakistan's annual Mehfil Hadiya-e-Kasrat-e-Durood Pak was held on 25 October. Program: 8:00 AM: Tilawat 8:15, Naat 8:30, spiritual address 9:00 and Dua 10:00 AM. Venue: Dargah Dada Sain Haji Muhammad Yousuf Shah, Maso Bhurgri, Tando Jam. Evening program: Durood Qalandari Owaisiya and interpretation of 'Ummi' and 'Shahidan Mubashira Nazeera'; Dua and address by Sain Syed Ghulam Hyder Shah Qalandari."
       },
       "date": "2026-10-25",
       "image": "https://sacredsites.com/images/asia/pakistan/gallery/Lal-Shahbaz-Qalandar-Shrine-Sehwan-Sharif-1.jpg",
@@ -691,22 +718,6 @@
       },
       "date": "2026-10-22",
       "image": "https://sacredsites.com/images/asia/pakistan/gallery/Lal-Shahbaz-Qalandar-Shrine-Sehwan-Sharif-1.jpg",
-      "gallery": []
-    },
-    {
-      "id": "mehfil-hadiya-samaro-2026",
-      "title": {
-        "sd": "سمارو ۾ محفل هديو ڪثرت درود پاڪ — 30 آڪٽوبر 2026",
-        "ur": "سامارو میں محفل ہدیہ کثرت درود پاک — 30 اکتوبر 2026",
-        "en": "Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak announced — Samaro, 30 October 2026"
-      },
-      "body": {
-        "sd": "انجمن غلامان قلندر ويلفيئر پاڪستان جي سربراهه سائين سيد غلام حيدر شاھ 'حيدر قلندري' جي صفحي تي اعلان ڪيو ويو ته محفل هديو ڪثرت درود پاڪ ﷺ جو انعقاد انشاءالله 30 اڪٽوبر 2026ع جمعي جي ڏينهن ڇنڇر جي رات سمارو، پاڪستان ۾ ٿيندو. (اعلان جي مڪمل تفصيل پوسٽ جي پوري متن ۾ آهي؛ پريويو ۾ متن ڪٽيو ويو هو.)",
-        "ur": "انجمن غلامان قلندر ویلفیئر پاکستان کے سربراہ سائیں سید غلام حیدر شاہ 'حیدر قلندری' کے صفحے پر اعلان کیا گیا کہ محفل ہدیہ کثرت درود پاک ﷺ کا انعقاد ان شاء اللہ 30 اکتوبر 2026 بروز جمعہ (چھنچھر کی رات) سامارو، پاکستان میں ہوگا۔ (اعلان کی مکمل تفصیل پوسٹ کے پورے متن میں ہے؛ پریویو میں متن کٹا ہوا تھا۔)",
-        "en": "An announcement on the page of Sain Syed Ghulam Hyder Shah 'Hyder Qalandari', head of Anjuman Ghulaman-e-Qalandar Welfare Pakistan: a Mehfil-e-Hadiya Kasrat-e-Darood-e-Pak ﷺ will be held, Insha'Allah, on Friday 30 October 2026 (through Saturday night) in Samaro, Pakistan. (Full details are in the complete announcement; the post text was truncated in the preview.)"
-      },
-      "date": "2026-10-30",
-      "image": "",
       "gallery": []
     }
   ],
