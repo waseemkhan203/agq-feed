@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -969,9 +969,9 @@
       "id": "sgh-06",
       "leader": 2,
       "title": {
-        "sd": "ميلاد النبي ﷺ ۽ ايماندار سماج جي نسبت",
-        "ur": "میلاد النبی ﷺ اور ایماندار سماج کی نسبت",
-        "en": "Milad-un-Nabi ﷺ & the Honest Society"
+        "sd": "ميلاد النبي ﷺ ۽ ايماندار سماج جي نسبت (حصو 1)",
+        "ur": "میلاد النبی ﷺ اور ایماندار سماج کی نسبت (حصہ 1)",
+        "en": "Milad-un-Nabi ﷺ & the Honest Society (Part 1)"
       },
       "year": 2026,
       "date": "~2026-09-09",
@@ -980,7 +980,30 @@
         "ur": "خانقاہ آشیانہ قلندری کنری، درگاہ بی بی مٹھی",
         "en": "Khanqah Aashiyana Qalandari Kunri, Dargah Bibi Mithi"
       },
-      "url": "https://www.youtube.com/watch?v=3zQmUAHi5WE",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-06-part1.mp4",
+      "kind": "video",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-06-part2",
+      "leader": 2,
+      "title": {
+        "sd": "ميلاد النبي ﷺ ۽ ايماندار سماج جي نسبت (حصو 2)",
+        "ur": "میلاد النبی ﷺ اور ایماندار سماج کی نسبت (حصہ 2)",
+        "en": "Milad-un-Nabi ﷺ & the Honest Society (Part 2)"
+      },
+      "year": 2026,
+      "date": "~2026-09-09",
+      "venue": {
+        "sd": "خانقاه آشيانه قلندري ڪنري، درگاه بي بي مٺي",
+        "ur": "خانقاہ آشیانہ قلندری کنری، درگاہ بی بی مٹھی",
+        "en": "Khanqah Aashiyana Qalandari Kunri, Dargah Bibi Mithi"
+      },
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-06-part2.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1475,9 +1498,9 @@
       "id": "sgh-21",
       "leader": 2,
       "title": {
-        "sd": "موجوده وقت ۾ منافقت جو عروج",
-        "ur": "موجودہ وقت میں منافقت کا عروج",
-        "en": "Munaafiqat Jo Urooj — Rise of Hypocrisy in Present Times"
+        "sd": "موجوده وقت ۾ منافقت جو عروج (حصو 1)",
+        "ur": "موجودہ وقت میں منافقت کا عروج (حصہ 1)",
+        "en": "Munaafiqat Jo Urooj — Rise of Hypocrisy in Present Times (Part 1)"
       },
       "year": 2026,
       "date": "~2026-10-06",
@@ -1486,7 +1509,30 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=GPTCGTwRZck",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-21-part1.mp4",
+      "kind": "video",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "sgh-21-part2",
+      "leader": 2,
+      "title": {
+        "sd": "موجوده وقت ۾ منافقت جو عروج (حصو 2)",
+        "ur": "موجودہ وقت میں منافقت کا عروج (حصہ 2)",
+        "en": "Munaafiqat Jo Urooj — Rise of Hypocrisy in Present Times (Part 2)"
+      },
+      "year": 2026,
+      "date": "~2026-10-06",
+      "venue": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      },
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-21-part2.mp4",
       "kind": "video",
       "body": {
         "sd": "",
