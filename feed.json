@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -1003,7 +1003,7 @@
         "ur": "درگاہ سید عبدالرحمٰن شاہ، سلطان آباد، ٹنڈو الہیار",
         "en": "Dargah Syed Abdul Rahman Shah, Sultanabad, Tando Allahyar"
       },
-      "url": "https://www.youtube.com/watch?v=FhAHDiuoElw",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-07.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1026,7 +1026,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=hJBW-L-SbLE",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-08.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1049,7 +1049,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=ePQdtdwJ9EA",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-09.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1072,7 +1072,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=uhGODOgRbu4",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-10.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1095,7 +1095,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=NnKxAFe9Rbc",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-11.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1118,7 +1118,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=TrLtmE4Cdag",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-12.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1141,7 +1141,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=YN8rZ4Naq2k",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-13.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1164,7 +1164,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=WKTWSe_X-zM",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-14.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1187,7 +1187,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=UVb3eJonNXQ",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-15.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1210,7 +1210,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/shorts/12JbT88O01I",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-16.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -1233,7 +1233,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=HsjlIIIx7Yc",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-17.mp4",
       "kind": "video",
       "body": {
         "sd": "",
