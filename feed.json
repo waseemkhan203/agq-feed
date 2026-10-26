@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updated": "2026-10-25",
+  "version": 13,
+  "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
     {
@@ -842,7 +842,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://youtube.com/watch?v=6m0a0bD5yo4",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sma-1.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -2799,6 +2799,29 @@
       },
       "url": "https://agqsindhpakistan.com/index.php/2024/03/17/prophet-muhammad-saw/",
       "kind": "article",
+      "body": {
+        "sd": "",
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "chaudveen-khitab-2026",
+      "leader": 2,
+      "title": {
+        "sd": "چوڏھينءَ جو خطاب — مسو ڀرڳڙي",
+        "ur": "چودھویں کا خطاب — مسو بھرگڑی",
+        "en": "Chaudveen Address — Maso Bhurgri"
+      },
+      "year": 2026,
+      "date": "2026-10-25",
+      "venue": {
+        "sd": "مسو ڀرڳڙي، ٽنڊو ڄام",
+        "ur": "مسو بھرگڑی، ٹنڈو جام",
+        "en": "Maso Bhurgri, Tando Jam"
+      },
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/chaudveen-khitab-2026-10-25.mp4",
+      "kind": "video",
       "body": {
         "sd": "",
         "ur": "",
