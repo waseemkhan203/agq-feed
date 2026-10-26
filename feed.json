@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -1647,7 +1647,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=m3Jx9If0KEw",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-28.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -2061,7 +2061,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=qNmpu3UlXh0",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-46.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -2153,7 +2153,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=LEaHczKfcnA",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-50.mp4",
       "kind": "video",
       "body": {
         "sd": "",
