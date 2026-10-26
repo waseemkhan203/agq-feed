@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -3144,6 +3144,36 @@
         "sd": "هر چنڊ جي 29هين رات محفلِ درود پاڪ سائين عبدالرحمٰن شاه جي مزار تي ٿيندي آهي (سائين محمد علي بلوچ جي وصال کان پوءِ اعلان ٿيو).",
         "ur": "ہر چاند کی 29ویں رات محفلِ درود پاک سائیں عبدالرحمٰن شاہ کے مزار پر ہوتی ہے (سائیں محمد علی بلوچ کے وصال کے بعد اعلان ہوا)۔",
         "en": "Mehfil-e-Durood Pak held every 29th lunar night at Sain Abdul Rehman Shah's shrine (announced after the passing of Sain Muhammad Ali Baloch)."
+      }
+    },
+    {
+      "id": "h-books-1988",
+      "year": 1988,
+      "date": "1988ع",
+      "title": {
+        "sd": "انجمن جو بنياد — ڪتابن مان تصديق",
+        "ur": "انجمن کی بنیاد — کتابوں سے تصدیق",
+        "en": "The Founding — Confirmed by the Books"
+      },
+      "detail": {
+        "sd": "ٽن ڪتابن (اعلان عشق، پرينءَ جي پار، سڄڻ جن کي سڏيو) ۾ هڪ ئي ڳالهه لکيل آهي: 1988ع ۾ بابا سائين احمد علي قريشي انجمن غلامان قلندر جو بنياد وڌو ۽ سائين محمد علي بلوچ کي پهريون صدر مقرر ڪيو. انجمن جو بنيادي ڪم درود پاڪ جي تبليغ آهي.",
+        "ur": "تین کتابوں (اعلانِ عشق، پرین جی پار، سجن جن کھی سڈیو) میں ایک ہی بات لکھی ہے: 1988ء میں بابا سائیں احمد علی قریشی نے انجمن غلامانِ قلندر کی بنیاد رکھی اور سائیں محمد علی بلوچ کو پہلا صدر مقرر کیا۔ انجمن کا بنیادی کام درود پاک کی تبلیغ ہے۔",
+        "en": "Three books (Ailan-e-Ishq, Pireen-je-Par, Sajan-jin-khy) record the same fact: in 1988 Baba Sain Ahmed Ali Qureshi founded Anjuman-e-Ghulaman-e-Qalandar and appointed Sain Muhammad Ali Baloch its first president. The Anjuman's core work is the propagation of Durood Pak."
+      }
+    },
+    {
+      "id": "h-manshoor",
+      "year": 0,
+      "date": "منشور",
+      "title": {
+        "sd": "انجمن جو منشور",
+        "ur": "انجمن کا منشور",
+        "en": "The Anjuman's Manifesto (Manshoor)"
+      },
+      "detail": {
+        "sd": "منشور موجب انجمن جو مقصد نوجوانن جي اصلاح ۽ سماج جي بگڙيل حالتن کي عشق مصطفيٰ ۽ درود پاڪ ذريعي درست ڪرڻ آهي. تنظيم روايتي پيري مريدي کان پاڪ آهي، بغير ڪنهن چندي جي في سبيل الله درود پاڪ سيکاري ٿي، ۽ ڪنهن به فرقيواريت سان ڪوبه تعلق ناهي. مرڪز: خانقاهه آشيانه قلندري، بستان، ڪنري.",
+        "ur": "منشور کے مطابق انجمن کا مقصد نوجوانوں کی اصلاح اور سماج کی بگڑی حالتوں کو عشقِ مصطفیٰ اور درود پاک کے ذریعے درست کرنا ہے۔ تنظیم روایتی پیری مریدی سے پاک ہے، بغیر کسی چندے کے فی سبیل اللہ درود پاک سکھاتی ہے، اور کسی فرقہ واریت سے کوئی تعلق نہیں۔ مرکز: خانقاہ آشیانہ قلندری، بستان، کنری۔",
+        "en": "Per the manifesto, the Anjuman's purpose is reforming youth and society's ills through Ishq-e-Mustafa and Durood Pak. The organization is free of traditional peer-muridi, teaches Durood Pak free of charge (fi sabilillah, no donations), and has no sectarian affiliation. Center: Khanqah Aashiyana Qalandari, Bustan, Kunri."
       }
     }
   ]
