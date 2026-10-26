@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updated": "2026-10-26",
   "note": "AGQ Welfare app content feed. Edit this file on GitHub; the app picks up changes automatically.",
   "daily_messages": [
@@ -819,7 +819,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=bIYi7dWcFtE",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/aaq-1.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -865,7 +865,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=FShQ9LvcJC0",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-01.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -888,7 +888,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=BqcdgMuE9do",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-02.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -911,7 +911,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=pcgQHK6IScw",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-03.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -934,7 +934,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=9dXhi3O4zIo",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-04.mp4",
       "kind": "video",
       "body": {
         "sd": "",
@@ -957,7 +957,7 @@
         "ur": "",
         "en": ""
       },
-      "url": "https://www.youtube.com/watch?v=e_pCqx909O8",
+      "url": "https://raw.githubusercontent.com/waseemkhan203/agq-feed/main/videos/sgh-05.mp4",
       "kind": "video",
       "body": {
         "sd": "",
